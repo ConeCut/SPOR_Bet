@@ -1,7 +1,11 @@
-What will I do?
+# Plan
+
+![Build status](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fdwyl%2Frepo-badges%2Fmaster%2FhighresPNGs%2Fbuild-passing.png&f=1&nofb=1&ipt=0adf097ce50aef9110fef50264d63019644759cdf9e1b94d594b6169f4decfd1&ipo=images)
 The website name will be SPOR Casino (Romanian derivative from good luck)
 
-This will be a sport betting website, which will include games such as -
+Learn to use Next.js (react framework) and maybe do some simple stuff with it
+
+## This will be a sport betting website, which will include games such as -
 
 - Blackjack
 - Horse racing (Like the car racing game)
@@ -18,7 +22,7 @@ poker rules and cards, together with possible combinations }
 
 
 
-I WILL HAVE TO look into requirements ( SEE PICTURE )
+## I WILL HAVE TO look into requirements ( SEE PICTURE )
 
 ![img.png](img.png)![REQUIREMENTS](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-01-15%20221313.png)
 
@@ -28,7 +32,7 @@ Introduce chip system instead of money system, or credits than can be converted 
 
 Introduce some games the users can play for credits
 
-Introduce database for the following
+## Introduce database for the following
 
 - Login System (id, username, password, email)
 - CREDITS (fk id, credits, chips)
