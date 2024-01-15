@@ -20,7 +20,7 @@ poker rules and cards, together with possible combinations }
 
 I WILL HAVE TO look into requirements ( SEE PICTURE )
 
-![img.png](img.png)![Screenshot 2024-01-15 221313.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-01-15%20221313.png)
+![img.png](img.png)![REQUIREMENTS](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-01-15%20221313.png)
 
 I will have user side req. and website side req.
 
